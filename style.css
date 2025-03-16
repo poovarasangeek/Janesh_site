@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.header{
+  text-align: center;
+  font-size:50px;
+  height: 50px;
+  align-items: center;
+  color: red;
+}
+
+.right{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.profile{
+  display: inline-block;
+  height: 300px;
+  padding: 0px;
+  border-radius: 15px;
+}
+
+.insta{
+  display: flex;
+  justify-content: center;
+}
+
+.instaimg{
+  display: inline-block;
+  height: 25px;
+}
+.poovarasan{
+  text-align: center;
+  text-shadow: 
+    0 0 10px rgba(255, 0, 0, 1), 
+    0 0 20px rgba(255, 0, 0, 0.8), 
+    0 0 30px rgba(255, 0, 0, 0.6);
+    color: white;
+}
